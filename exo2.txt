@@ -1,0 +1,8 @@
+a. man ls
+   Avec ls seulement, on ne voit pas les fichiers caches.
+b. ls -a pour lister tous les fichiers et 
+ 
+c. ls -A
+d. Pour ncompter les lignes, les mots et lkes caracters dans un fichier, om utilise la commande wc. Example: wc file.txt
+e. Pour que cette commande n'affiche que le nombre de lignes, on utilise l'option -l. Example: wc -l   file.txt
+history >> exo2.txt
